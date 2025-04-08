@@ -1,5 +1,7 @@
 # Analysis of Wikipedia Article Length Across Languages
 
+Read the full article here: https://www.julienverneaut.com/en/articles/which-country-has-most-content-wikipedia
+
 ## Objective
 
 This project explores whether English Wikipedia articles tend to be longer and richer in content compared to their French counterparts.
